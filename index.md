@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# A layperson's gateway to systems and infrastructure
+# Welcome to syslayer
 
-
-
+This is a blog about systems, infrastructure, and all things low-level.

@@ -1,0 +1,7 @@
+Tasks
+
+1. Create header
+2. Create navbar
+3. Create footer
+4. Card/Tile/Grid based design where eac card is an article with title having a link too
+5. 

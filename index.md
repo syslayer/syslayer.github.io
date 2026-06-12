@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Welcome to syslayer
+# Welcome to Syslayer
 
-This is a blog about systems, infrastructure, and all things low-level.
+This is a blog for systems.
 
-## CPU Architecture for Developers
+## A love letter to Linux ❤
 
 Enter text here
